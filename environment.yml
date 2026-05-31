@@ -10,4 +10,5 @@ dependencies:
   - pandas
   - jupyter
   - ipykernel
+  - requests
   - pip
